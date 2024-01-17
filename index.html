@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Analizador de texto</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div name="central">
+    <div name="content">
+      <header>
+        <h1>Analisador de texto</h1>
+      </header>
+
+      <main>
+        <textarea name="user-input" cols="65" rows="10"></textarea>
+        <ul>
+          <li class="metrica" data-testid="word-count"> Contagem de palavras:</li>
+          <li class="metrica" data-testid="character-count"> Contagem de caracteres:</li>
+          <li class="metrica" data-testid="character-no-spaces-count"> Contagem de caracteres sem espaços:</li>
+          <li class="metrica" data-testid="number-count"> Contagem de números:</li>
+          <li class="metrica" data-testid="number-sum"> Soma total de números:</li>
+          <li class="metrica" data-testid="word-length-average"> Comprimento médio das palavras:</li>
+        </ul>
+      </main>
+      <button id="reset-button">Limpar tudo</button>
+    </div>
+    
+
+    <footer>
+      <p>Desenvolvido por: Marcele Reis [SAP012] </p>
+    </footer> </div>
+    <script src="index.js" type="module"></script>
+  </body>
+</html>
