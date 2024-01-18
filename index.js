@@ -17,7 +17,7 @@ textarea.addEventListener("input", metricas);
 
 function limparMetricas() {
   textarea.value = "";
-  wordCount.textContent = "Contagem de caracteres: 0";
+  wordCount.textContent = "Contagem de palavras: 0";
   characterCount.textContent = "Contagem de caracteres: 0";
   characterNoSpaceCount.textContent = "Contagem de caracteres sem espaços: 0";
   numberCount.textContent = "Contagem de números: 0";
@@ -33,9 +33,6 @@ function metricas() {
   characterNoSpaceCount.textContent = "Contagem de caracteres sem espaços: " + analyzer.getCharacterCountExcludingSpaces(text);
   numberCount.textContent = "Contagem de números: " + analyzer.getNumberCount(text);
   numberSum.textContent = "Soma total de números: " + analyzer.getNumberSum(text);
-  wordLengthAverage.textContent = "Comprimento médio das palavras: " + analyzer.getWordLengthAverage(text);
+  wordLengthAverage.textContent = "Comprimento médio das palavras: " + analyzer.getAverageWordLength(text);
 
 }
-
-
-
