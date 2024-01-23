@@ -119,7 +119,7 @@ A lista de funcionalidades é a seguinte:
 
 - Git: Controle de versões com git (clone,status, add, commit, push, deploy)
 
-- GitHub: Implantação com GitHub Pages**: A aplicação está implantada no GitHub Pages:
+- GitHub: A aplicação está implantada no GitHub Pages:
   [Text Analyzer](https://marcelereis.github.io/SAP012-text-analyzer/).
 
 ### Foco na Usuária
