@@ -21,7 +21,6 @@ div[name="content"] {
   display: flex;
   flex-direction: column;
   background-color: #f5ece4;
-  display: flex;
   width: 1000px;
   max-width: 500px;
   border-radius: 20px;
@@ -31,7 +30,6 @@ div[name="content"] {
   border: 1px solid;
   border-color: #ae8a3e;
 }
-
 
 header {
   font-size: 30px;
