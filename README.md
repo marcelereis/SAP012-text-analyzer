@@ -23,7 +23,7 @@
 
 Neste projeto foi desenvolvido uma aplicação que capacita os usuários a realizar análises de textos diretamente no navegador. Os usuários têm a liberdade de inserir um texto de sua escolha, e a aplicação oferece uma variedade de indicadores e métricas específicas. Essas métricas englobam diferentes aspectos, incluindo a contagem de caracteres, letras, números e outras estatísticas relevantes.
 
-- Este projeto foi desenvolvido de forma **individual**, com apoio da equipe e das colegas do Bootcamp de Desenvolvimento Front-end da **Laboratória**.
+- Este projeto foi desenvolvido de forma **individual**, com apoio da equipe e das colegas do **Bootcamp de Desenvolvimento Front-end da Laboratória**.
 - O principal objetivo desse projeto é a aprendizagem e o desenvolvimento de habilidades técnicas e softskills.
 - Não foi permitido o uso de frameworks de CSS (Bootstrap, Materialize, etc).
 - O projeto foi realizado em 5 Sprints.
