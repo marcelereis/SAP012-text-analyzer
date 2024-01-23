@@ -78,53 +78,53 @@ A lista de funcionalidades é a seguinte:
 
 ### CSS
 
-- Uso de seletores CSS
+- Uso de seletores CSS;
 
-- Modelo de caixa (box model): borda, margem, preenchimento
+- Modelo de caixa (box model): borda, margem, preenchimento.
 
 ### Web APIs
 
-- Uso de seletores do DOM: `querySelector` e `getElementById`.
+- Uso de seletores do DOM: `querySelector` e `getElementById`;
 
-- Manipulação de eventos do DOM (ouvintes, propagação, delegação): `addEventListener`.
+- Manipulação de eventos do DOM (ouvintes, propagação, delegação): `addEventListener`;
 
 - Manipulação dinâmica do DOM:`textContent`.
       
 
 ### JavaScript
 
-- Tipos de dados primitivos
+- Tipos de dados primitivos;
 
-- Strings (cadeias de caracteres)
+- Strings (cadeias de caracteres);
 
-- Variáveis (declaração, atribuição, escopo)
+- Variáveis (declaração, atribuição, escopo);
 
-- Uso de condicionais (if-else, switch, operador ternário, lógica booleana)
+- Uso de condicionais (if-else, switch, operador ternário, lógica booleana);
 
-- Uso de loops (while, for, for..of)
+- Uso de loops (while, for, for..of);
 
-- Funções (parâmetros, argumentos, retorno)
+- Funções (parâmetros, argumentos, retorno);
 
-- Testes unitários (unit tests)
+- Testes unitários (unit tests);
 
-- Módulos do ECMAScript (ES Modules)
+- Módulos do ECMAScript (ES Modules);
 
-- Uso de linter (ESLINT)
+- Uso de linter (ESLINT);
 
-- Uso de identificadores descritivos (Nomenclatura e Semântica)
+- Uso de identificadores descritivos (Nomenclatura e Semântica).
 
 ### Controle de Versões (Git e GitHub)
 
-- GitHub: Criação de conta e repositórios, configuração de chaves SSH
+- GitHub: Criação de conta e repositórios, configuração de chaves SSH;
 
-- Git: Controle de versões com git (clone,status, add, commit, push, deploy)
+- Git: Controle de versões com git (clone,status, add, commit, push, deploy);
 
-- GitHub: A aplicação está implantada no GitHub Pages:
+- GitHub: A aplicação está implantada no GitHub Pages
   [Text Analyzer](https://marcelereis.github.io/SAP012-text-analyzer/).
 
 ### Foco na Usuária
 
-- Projetado e desenvolvido um produto ou serviço centrado nas usuárias
+- Projetado e desenvolvido um produto ou serviço centrado nas usuárias.
 
 ### Design do Produto
 
