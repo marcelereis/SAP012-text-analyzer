@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/static/v1?label=Status&message=CONCLU%C3%8DDO&color=%3CCOLOR%3E&style=%3CSTYLE%3E&logo=%3CLOGO%3E) ![Date](https://img.shields.io/badge/Release_date-JANEIRO-blue)
 
 
-<img src="https://i.imgur.com/SaIdQPJ.gif">
+<img src="https://i.imgur.com/H3MdkOl.png">
 
 ## Índice
 
@@ -66,6 +66,8 @@ A lista de funcionalidades é a seguinte:
 - Digite seu texto na caixa de texto principal;
 - As métricas serão atualizadas automaticamente à medida que você digita;
 - Pressione o botão "Limpar tudo" para zerar todas as contagens e iniciar uma nova análise.
+
+<img src="https://i.imgur.com/SaIdQPJ.gif">
 
 
 ## 4. Objetivos de aprendizagem
