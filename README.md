@@ -22,34 +22,12 @@
 
 ## 1. Sobre o Projeto
 
-Um analisador de texto é uma aplicação para extrair informações úteis de um
-texto utilizando diversas técnicas, como o processamento de linguagem natural
-(PLN), aprendizado de máquina (ML) e análise estatística. Essas aplicações podem
-fornecer uma variedade de métricas que oferecem informações básicas sobre
-o comprimento e a estrutura do texto, como contagem de palavras, contagem de
-caracteres, contagem de sentenças e contagem de parágrafos. Outras métricas
-incluem análise de sentimentos, que utiliza técnicas de PLN para determinar
-o tom geral positivo, negativo ou neutro do texto, e análise de legibilidade,
-que utiliza algoritmos para avaliar a complexidade e legibilidade do texto.
-
-Em geral, as aplicações de análise de texto fornecem informações valiosas e métricas
-sobre os textos que podem ajudar os usuários a tomar decisões informadas e tirar
-conclusões significativas. Por meio do uso dessas ferramentas de análise, os usuários
-podem obter uma compreensão mais profunda dos textos.
-
 Neste projeto, elaborado com propósitos educacionais, construiu-se uma aplicação que capacita os usuários a conduzirem análises de textos diretamente no navegador. Os usuários têm a liberdade de inserir um texto de sua escolha, e a aplicação oferece uma variedade de indicadores e métricas específicas. Essas métricas abarcam diferentes aspectos, incluindo a contagem de caracteres, letras, números e outras estatísticas pertinentes.
 
 - Este projeto foi desenvolvido de forma **individual**, com apoio da equipe e das colegas do Bootcamp de Desenvolvimento Front-end da **Laboratória**.
 - O principal objetivo desse projeto é a aprendizagem e o desenvolvimento de habilidades técnicas e softskills.
 - Não foi permitido o uso de frameworks de CSS (Bootstrap, Materialize, etc).
 - O projeto foi realizado em 5 Sprints.
-
-#### Tecnologias Empregadas
-O Analisador de Texto foi desenvolvido utilizando as seguintes tecnologias:
-
-**HTML**: Utilizado para estruturar a interface da aplicação.
-**CSS**: Encarregado do estilo e layout visual da aplicação.
-**JavaScript**: Implementação das funcionalidades interativas e lógica de análise de texto.
 
 #### Deploy
 A aplicação foi publicada (ou _deployed_) para que as usuárias da web possam acessá-la.
