@@ -32,7 +32,7 @@
     "jest": "^27.0.1",
     "jsdom": "^21.1.1",
     "opener": "^1.5.1",
-    "serve": "^13.0.2"
+    "serve": "^14.2.1"
   },
   "engines": {
     "node": ">=16.x"
@@ -41,5 +41,11 @@
     "createdAt": "2023-12-04T20:09:12.068Z",
     "version": "7.4.0",
     "commit": "de8f3a8dd3f24452f18e56bd8efae4d99e7fe353"
-  }
+  },
+  "description": "- [1. Considerações gerais](#1-considerações-gerais)\r - [2. Preâmbulo](#2-preâmbulo)\r - [3. Resumo do projeto](#3-resumo-do-projeto)\r - [4. Funcionalidades](#4-funcionalidades)\r - [5. Boilerplate](#5-boilerplate)\r - [6. Critérios de aceitação mínimos do projeto](#6-critérios-de-aceitação-mínimos-do-projeto)\r - [7. Testes](#7-testes)\r - [8. Dicas, sugestões e leituras complementares](#8-dicas-sugestões-e-leituras-complementares)\r - [9. Considerações para solicitar seu Feedback de Projeto](#9-considerações-para-solicitar-seu-feedback-de-projeto)\r - [10. Objetivos de aprendizagem](#10-objetivos-de-aprendizagem)\r - [11. Funcionalidades opcionais](#11-funcionalidades-opcionais)",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": ""
 }
